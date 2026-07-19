@@ -1,1 +1,16 @@
-
+{
+  "name": "NAMTIEN79",
+  "short_name": "NAMTIEN79",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
